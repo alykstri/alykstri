@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alykstri
 - 👀 I’m interested in every part of the design process!
-- 🌱 I’m currently learning Java & SQLite
+- 🌱 I’m currently learning Java, C++, & SQLite
 - 💞️ I’m looking to collaborate on databases
 - 📫 How to reach me: Collaborate on something :)
 - 😄 Pronouns: they/them
